@@ -1,33 +1,15 @@
 <p align="center">
   <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/8/89/ExtensionFlag.png">
    <br/>
-  <em><b>Software Engineering Thesis Tutorial (CSCI E-497)</b></em>
+  <em><b>Software Engineering Thesis</b></em>
       <br/>
   <em>Spring 2021</em>
 </p>
 <p align="center">
-Instructor: Dr. Hongming Wang 
+Andrew Pham
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
-
-
-
-
-# Contents of Repository
-
-
-
-- Guidelines for your thesis proposal
-
-- Assignments:
-
-  - Assignment1:  
-  - Assignment2: due April 3rd
-  - Assignment3: 
-  - Assignment4: due May 1st
-
-  
-
-  
-
-  
+Thesis on Quantum Computer RNG for cryptography using Amazon Braket tested with NIST Statistical Test Suite.
