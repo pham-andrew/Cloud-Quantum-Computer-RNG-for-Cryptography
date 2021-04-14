@@ -3,10 +3,9 @@
    <br/>
   <em><b>Software Engineering Thesis</b></em>
       <br/>
-  <em>Spring 2021</em>
+  <em>Andrew Pham</em>
 </p>
 <p align="center">
-Andrew Pham
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
