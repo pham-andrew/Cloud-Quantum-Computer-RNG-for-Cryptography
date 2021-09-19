@@ -77,7 +77,6 @@ F R E Q U E N C Y
 
 
 
-HomeCreate test(s)Upload fileYour currently running testsGroups of tests
 NONPERIODIC TEMPLATES TEST
 -------------------------------------------------------------------------------------
 COMPUTATIONAL INFORMATION
@@ -237,7 +236,7 @@ Template W_1 W_2 W_3 W_4 W_5 W_6 W_7 W_8 Chi^2 P_value Assignment Index
 111111110 0 0 0 0 0 0 0 0 2019.943443 0.000000 FAILURE 147
 
 
-FFT TEST
+FFT TEST (dis fourier transform)
 -------------------------------------------
 COMPUTATIONAL INFORMATION:
 -------------------------------------------
