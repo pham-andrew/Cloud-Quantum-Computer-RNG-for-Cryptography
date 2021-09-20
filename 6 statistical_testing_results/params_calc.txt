@@ -1,0 +1,26 @@
+P a r a m e t e r s
+        -----------------------------------------
+    [1] Block Frequency Test - block length(M):         101
+n ≥ MN; 10k is bigger than 1000
+M ≥ 20
+M > .01n; m needs to be bigger than 100
+N=10 by default but needs to be N < 100
+
+    [2] NonOverlapping Template Test - block length(m): 1250
+M > 0.01 • n and N = floor(n/M); N = 8 but can be changed
+m > 100
+m = 1250 (breaks program use smaller n?)
+
+    [3] Overlapping Template Test - block length(m):    
+not enough bits to do this test
+
+    [4] Approximate Entropy Test - block length(m):     7
+m < floor(log2 n) -5
+m < 8
+
+    [5] Serial Test - block length(m):                  10
+m < floor(log2 n) -2
+m < 11
+
+    [6] Linear Complexity Test - block length(M):       
+not enough bits lol, 500 is min

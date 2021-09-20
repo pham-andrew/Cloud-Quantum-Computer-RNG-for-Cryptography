@@ -1,0 +1,44 @@
+test	min bits
+	
+1 freq	100
+2 freq within block	100
+3 runs	100
+4 Longest Run of Ones in a Block	128
+5 Binary Matrix Rank	38,912
+6 Discrete Fourier Transform	1,000
+7 Non-overlapping Template Matching	1,000
+8 Overlapping Template Matching Test	1,000,000
+9 Maurer’s	387,840
+10 Linear Complexity Test	1,000,000
+11 Serial Test	small
+12 approx entropy small
+13 cusums 100
+14 rand excurs 1000000
+15 rand excur variant 1000000
+
+
+9 valid tests with 100 10k long sequences
+
+1 freq	100
+2 freq within block	100
+3 runs	100
+4 Longest Run of Ones in a Block	128
+6 Discrete Fourier Transform	1,000
+7 Non-overlapping Template Matching	1,000
+11 Serial Test	small
+12 approx entropy small
+13 cusums 100
+
+
+tests out of range
+
+5 Binary Matrix Rank	38,912
+9 Maurer’s	387,840
+
+
+way out of range tests
+
+14 rand excurs 1,000,000
+15 rand excur variant 1,000,000
+10 Linear Complexity Test	1,000,000
+8 Overlapping Template Matching Test	1,000,000

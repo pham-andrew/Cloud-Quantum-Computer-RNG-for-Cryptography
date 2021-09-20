@@ -6,12 +6,11 @@ RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
  C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  P-value(KS) PROPORTION  STATISTICAL TEST 
 ------------------------------------------------------------------------------
  78   7   6   5   1   0   0   2   1   0  0.000000 *  0.000000 * 0.4900 *  Frequency
- 41  13  12   8   4   6   3   7   4   2  0.000000 *  0.000000 * 0.9300 *  BlockFrequency
+ 39  18  12   5   7   4   0   8   6   1  0.000000 *  0.000000 * 0.8900 *  BlockFrequency
  79  12   3   3   1   1   0   0   0   1  0.000000 *  0.000000 * 0.5200 *  CumulativeSums
  77   8   2   4   4   1   3   0   0   1  0.000000 *  0.000000 * 0.5300 *  CumulativeSums
  20   7   8   8   7  10   6   3   4   7  0.003577    0.008133   0.9625    Runs
  21  11   5   7  10   9   9  11  10   7  0.051942    0.013528   0.9500 *  LongestRun
-  8   8   5  18  17   2   4  10  16  12  0.000757    0.031101   0.9900    Rank
  27  13   8  10   8   6   6  11   4   7  0.000015 *  0.000020 * 0.9200 *  FFT
  33  10   9  12   8   7   4   9   6   2  0.000000 *  0.000003 * 0.8800 *  NonOverlappingTemplate
  29  15   5   7   9   9   8   9   5   4  0.000000 *  0.000015 * 0.9300 *  NonOverlappingTemplate
@@ -161,46 +160,15 @@ RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
   3  12   6   9   9  11  15  17  10   8  0.090936    0.054481   0.9900    NonOverlappingTemplate
   5   5  10   8   7  10  19  14  11  11  0.062821    0.007392   1.0000    NonOverlappingTemplate
   7   7  13  10  10  11   9  11  12  10  0.946308    0.322419   1.0000    NonOverlappingTemplate
-  5   5  12  12  19  10  10  10  10   7  0.096578    0.135554   1.0000    OverlappingTemplate
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     Universal
- 74  11   6   5   1   1   1   1   0   0  0.000000 *  0.000000 * 0.6600 *  ApproximateEntropy
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursions
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  0   0   0   0   0   0   0   0   0   0     ----        ----     ----     RandomExcursionsVariant
-  6  14   8   9  12  10   6  17   9   9  0.289667    0.600316   0.9900    Serial
-  7   7  13  10   9  16  15   6   7  10  0.249284    0.565583   0.9800    Serial
- 12   5   9  11  10   8  14  10  10  11  0.816537    0.854026   0.9800    LinearComplexity
+ 41  16  12   8   7   4   4   4   0   4  0.000000 *  0.000000 * 0.9400 *  ApproximateEntropy
+ 18  10  15  12  15  12   8   6   1   3  0.001296    0.000013 * 0.9900    Serial
+  5  12   8  12  10  14  10  13   6  10  0.554420    0.794833   1.0000    Serial
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 The minimum pass rate for each statistical test with the exception of the
 random excursion (variant) test is approximately = 0.960150 for a
 sample size = 100 binary sequences.
-
-The minimum pass rate for the random excursion (variant) test is undefined.
 
 For further guidelines construct a probability table using the MAPLE program
 provided in the addendum section of the documentation.
