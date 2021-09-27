@@ -6,11 +6,8 @@ M ≥ 20
 M > .01n; m needs to be bigger than 100
 N=10 by default but needs to be N < 100
 
-    [2] NonOverlapping Template Test - block length(m): 1250
-M > 0.01 • n and N = floor(n/M); N = 8 but can be changed
-m > 100
-m = 1250 (breaks program use smaller n?)
-recommended 9 or 10
+    [2] NonOverlapping Template Test - block length(m): 
+M is block length, m is slide window
 
     [3] Overlapping Template Test - block length(m):    
 not enough bits to do this test
