@@ -1,16 +1,25 @@
 ﻿  approximateEntropy.c
   assess.c
   blockFrequency.c
+  BM.c
+  BMA.c
+  cephes.c
   cusum.c
+  dfft.c
   discreteFourierTransform.c
+  erf.c
   frequency.c
   generators.c
+  genutils.c
   linearComplexity.c
   longestRunOfOnes.c
+  LUTs.c
   main.c
   matrix.c
   nonOverlappingTemplateMatchings.c
   overlappingTemplateMatchings.c
+  Generating Code...
+  Compiling...
   randomExcursions.c
   randomExcursionsVariant.c
   rank.c
@@ -18,8 +27,6 @@
   serial.c
   tools.c
   universal.c
-  Generating Code...
-  Compiling...
   utilities.c
   Generating Code...
-  NIST.vcxproj -> C:\Users\andre\Projects\Cloud-Quantum-Computer-RNG-for-Cryptography\5 NIST_testing\Fast_NIST_STS_v6.0.1\NIST\Debug\NIST.exe
+  NIST.vcxproj -> C:\Users\andre\Projects\Cloud-Quantum-Computer-RNG-for-Cryptography\6 NIST_testing\Fast_NIST_STS_v6.0.1\NIST\Debug\NIST.exe
